@@ -1,0 +1,20 @@
+The document covers 8 major sorting algorithms:
+
+Bubble Sort - Explained as arranging a cricket team by height
+Selection Sort - Compared to picking team members one by one
+Insertion Sort - Described like arranging playing cards in your hand
+Merge Sort - The divide and conquer champion
+Quick Sort - Compared to gully cricket team selection with a captain (pivot)
+Heap Sort - The underrated but consistent performer
+Counting Sort - The specialist for integer sorting
+Radix Sort - The digit-by-digit sorter
+
+For each algorithm, I've included:
+
+A simple explanation in Chennai-style Tanglish
+Clean, well-commented JavaScript code following best practices
+A walkthrough example with step-by-step explanation
+Time and space complexity analysis explained in conversational style
+Real-world usage insights
+
+The guide also includes practical advice about which algorithm to choose in different situations and interview tips to help you stand out.
